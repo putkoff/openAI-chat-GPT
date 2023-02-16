@@ -1,3 +1,4 @@
+![Screenshot from 2023-02-15 21-47-50](https://user-images.githubusercontent.com/57512254/219269874-3e88fa2a-2b88-4ed4-8d36-8eddbf13a221.png)
 # openAI-chat-GPT-bot
 python tools for chat gpt3
 #README
