@@ -1,0 +1,3 @@
+import newMain
+newMain.startIt()
+
